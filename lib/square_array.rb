@@ -3,4 +3,4 @@ def square_array(numbers)
   new_numbers = array.each do numbers**2 
   end
   
-  new_numbers =
+  
